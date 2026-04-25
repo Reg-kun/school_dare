@@ -12,3 +12,4 @@ PyJWT==2.12.1
 rest-framework-simplejwt==0.0.2
 sqlparse==0.5.5
 tzdata==2026.1
+whitenoise==6.12.0
