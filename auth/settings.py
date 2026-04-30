@@ -137,7 +137,7 @@ USE_TZ = True
 STATIC_URL = 'static/'
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
+    "https://69f09ee19beec50008709329--reliable-dieffenbachia-2d0d16.netlify.app/",
 ]
 
 AUTHENTICATION_BACKENDS = ['django.contrib.auth.backends.ModelBackend']
